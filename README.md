@@ -34,6 +34,6 @@ if __name__ == '__main__':
 ```
 
 ```
- if you got a Error:`ModuleNotFoundError: No module named '_crypt'`
- you should know:`you need to run it under UNIX,crypt() is a unix crypt for password`
+ if you got a Error:`ModuleNotFoundError: No module named '_crypt'
+ you should know:`you need to run it under UNIX,crypt() is a unix crypt for password
 ```
